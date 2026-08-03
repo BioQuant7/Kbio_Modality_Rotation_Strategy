@@ -113,3 +113,13 @@ pip install finance-datareader pandas numpy matplotlib
 
 `Kbio_Modality_Rotation_Strategy.ipynb`를 위에서부터 순서대로 실행하면 됩니다.
 종료일이 고정되어 있어 언제 실행해도 문서의 수치와 동일한 결과가 나옵니다.
+
+---
+
+## License
+
+MIT
+
+이 저장소의 코드와 분석은 학습 및 연구 목적으로 작성되었으며,
+투자 판단의 근거로 사용하기 위한 것이 아닙니다.
+백테스트 결과는 과거 데이터에 기반하며 향후 성과를 보장하지 않습니다.
